@@ -30,7 +30,7 @@
 ![act](/lecture3/MySQL(Act).png)
 
 - **DB停止**  
-![DB停止]/lecture3/DB停止.png)
+![DB停止](/lecture3/DB停止.png)
 
 ※DB停止後、アクセスできませんでした。
 

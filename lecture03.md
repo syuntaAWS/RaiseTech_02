@@ -2,23 +2,18 @@
 
 ## 環境設定
 
-![動作環境](/RaiseTech_02/lecture3/version.png)
-
-
 ##　APサーバーについて
 
 - APサーバーの名前は「PUMA」
 
-- **PUMA version**
+- **PUMA version**  
+![version](/RaiseTech_02/lecture3/version.png)
 
-![version](/RaiseTech_02/lecture3/PUMAver.png)
-
-
-- webでの動作確認 
+- **webでの動作確認**   
 ![AP起動](/RaiseTech_02/lecture3/AP起動.png)
 
 
-- **動作停止**
+- **動作停止**  
 ![AP停止](/RaiseTech_02/lecture3/AP停止.png)
 
 ※AP停止後、アクセスできませんでした。
@@ -29,16 +24,13 @@
 
 - DBサーバーの名前は「MySQL」
 
-- **MySQL version**
-
+- **MySQL version**  
 ![mysqlver](/RaiseTech_02/lecture3/MySQL.png)
 
-- **MySQL起動確認**
-
+- **MySQL起動確認**  
 ![act](/RaiseTech_02/lecture3/MySQL(Act).png)
 
-- **DB停止**
-
+- **DB停止**  
 ![DB停止](/RaiseTech_02/lecture3/DB停止.png)
 
 ※DB停止後、アクセスできませんでした。
@@ -46,7 +38,7 @@
 
 ##　Railsの構成管理ツールについて
 
-- ツールの名前は「bundler」
+- 構成管理ツールの名前は「bundler」
 
 
 ##　感想

@@ -2,7 +2,7 @@
 
 ## 環境設定
 
-##　APサーバーについて
+## APサーバーについて
 
 - APサーバーの名前は「PUMA」
 
@@ -19,7 +19,7 @@
 ※AP停止後、アクセスできませんでした。
 
 
-##　DBサーバーについて
+## DBサーバーについて
 
 - DBサーバーの名前は「MySQL」
 
@@ -35,7 +35,7 @@
 ※DB停止後、アクセスできませんでした。
 
 
-##　Railsの構成管理ツールについて
+## Railsの構成管理ツールについて
 
 - 構成管理ツールの名前は「bundler」
 
@@ -55,4 +55,3 @@ devの操作時にメモリが足らず拡張について学習したがうま�
 - [yarnとは？](https://qiita.com/akitaaa/items/c97ff951ca31298f3f24)
 - [GemとBundler](https://qiita.com/uhooi/items/4abf8c282ae23a259e4f)
 - [MySQLについて](https://liginc.co.jp/644044)
-

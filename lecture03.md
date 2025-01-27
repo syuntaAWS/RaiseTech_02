@@ -7,18 +7,18 @@
 
 ##　APサーバーについて
 
-APサーバーの名前は「PUMA」
+- APサーバーの名前は「PUMA」
 
-PUMA version
+- **PUMA version**
 
 ![version](/RaiseTech_02/lecture3/PUMAver.png)
 
 
-webでの動作確認 
+- webでの動作確認 
 ![AP起動](/RaiseTech_02/lecture3/AP起動.png)
 
 
-動作停止
+- **動作停止**
 ![AP停止](/RaiseTech_02/lecture3/AP停止.png)
 
 ※AP停止後、アクセスできませんでした。
@@ -27,18 +27,18 @@ webでの動作確認
 
 ##　DBサーバーについて
 
-DBサーバーの名前は「MySQL」
+- DBサーバーの名前は「MySQL」
 
-MySQL version
+- **MySQL version**
 
 ![mysqlver](/RaiseTech_02/lecture3/MySQL.png)
 
-MySQL起動確認
+- **MySQL起動確認**
 
 ![act](/RaiseTech_02/lecture3/MySQL(Act).png)
 
+- **DB停止**
 
-DB停止
 ![DB停止](/RaiseTech_02/lecture3/DB停止.png)
 
 ※DB停止後、アクセスできませんでした。
@@ -46,7 +46,7 @@ DB停止
 
 ##　Railsの構成管理ツールについて
 
-ツールの名前は「bundler」
+- ツールの名前は「bundler」
 
 
 ##　感想
@@ -57,24 +57,11 @@ devの操作時にメモリが足らず拡張について学習したがうま�
 
 ##　参考資料
 
-1.
-[RVMについて](https://qiita.com/yunzeroin/items/f685c66a5455d354f6b6)
-
-2.
-[installしたパッケージ](https://rvm.io/)
-
-3.
-[EBS拡張について](https://qiita.com/naguramasashi/items/88afc3253d5d79c69ceb)
-
-4.
-[npmとは？](https://qiita.com/akitaaa/items/05f973df9c54cec23419)
-
-5.
-[yarnとは？](https://qiita.com/akitaaa/items/c97ff951ca31298f3f24)
-
-6.
-[GemとBundler](https://qiita.com/uhooi/items/4abf8c282ae23a259e4f)
-
-7.
-[MySQLについて](https://liginc.co.jp/644044)
+- [RVMについて](https://qiita.com/yunzeroin/items/f685c66a5455d354f6b6)
+- [installしたパッケージ](https://rvm.io/)
+- [EBS拡張について](https://qiita.com/naguramasashi/items/88afc3253d5d79c69ceb)
+- [npmとは？](https://qiita.com/akitaaa/items/05f973df9c54cec23419)
+- [yarnとは？](https://qiita.com/akitaaa/items/c97ff951ca31298f3f24)
+- [GemとBundler](https://qiita.com/uhooi/items/4abf8c282ae23a259e4f)
+- [MySQLについて](https://liginc.co.jp/644044)
 

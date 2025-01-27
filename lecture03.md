@@ -7,17 +7,16 @@
 - APサーバーの名前は「PUMA」
 
 - **PUMA version**  
-![version](/RaiseTech_02/lecture3/version.png)
+![version](RaiseTech_02/lecture3/version.png)
 
 - **webでの動作確認**   
-![AP起動](/RaiseTech_02/lecture3/AP起動.png)
+![AP起動](RaiseTech_02/lecture3/AP起動.png)
 
 
 - **動作停止**  
-![AP停止](/RaiseTech_02/lecture3/AP停止.png)
+![AP停止](RaiseTech_02/lecture3/AP停止.png)
 
 ※AP停止後、アクセスできませんでした。
-
 
 
 ##　DBサーバーについて
@@ -25,13 +24,13 @@
 - DBサーバーの名前は「MySQL」
 
 - **MySQL version**  
-![mysqlver](/RaiseTech_02/lecture3/MySQL.png)
+![mysqlver](RaiseTech_02/lecture3/MySQL.png)
 
 - **MySQL起動確認**  
-![act](/RaiseTech_02/lecture3/MySQL(Act).png)
+![act](RaiseTech_02/lecture3/MySQL(Act).png)
 
 - **DB停止**  
-![DB停止](/RaiseTech_02/lecture3/DB停止.png)
+![DB停止](RaiseTech_02/lecture3/DB停止.png)
 
 ※DB停止後、アクセスできませんでした。
 
@@ -57,3 +56,6 @@ devの操作時にメモリが足らず拡張について学習したがうま�
 - [GemとBundler](https://qiita.com/uhooi/items/4abf8c282ae23a259e4f)
 - [MySQLについて](https://liginc.co.jp/644044)
 
+## 修正
+
+- 画像がうまく表示されなかったが、画像パス最初の「/」wpぬいたら解決。

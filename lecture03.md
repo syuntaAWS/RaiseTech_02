@@ -2,12 +2,14 @@
 
 ## 環境設定
 
+![各version](/lecture3/version.png)
+
 ## APサーバーについて
 
 - APサーバーの名前は「PUMA」
 
 - **PUMA version**  
-![version](/lecture3/version.png)
+![version](/lecture3/PUMAver.png)
 
 - **webでの動作確認**   
 ![AP起動](/lecture3/AP起動.png)

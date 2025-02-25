@@ -42,6 +42,9 @@
 - RDSへ接続<br>
 ![EC2からRDSへ接続](/lecture4/RDS接続.png)
 
+- **再作成再接続**<br>
+![EC2からRDSへ再接続](/lecture4/EC2接続RDS接続.png)
+
 ## 感想
 
 - EC2接続がうまくいかず講師の方への質問し解決<br>

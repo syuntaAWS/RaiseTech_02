@@ -17,30 +17,21 @@
 - EC2作成<br>
 ![EC2作成](/lecture4/EC2作成.png)
 
-- インバウンドルール設定<br>
-![EC2インバウンドルール設定](/lecture4/EC2インバウンド.png)
-
-- **インバウンドルール設定再提出**<br>
-![再提出](/lecture4/セキュリティグループ再提出.png)
+- **インバウンドルールmyIP設定再提出**<br>
+![再提出](/lecture4/myIPに設定.png)
 
 - EC2へ接続確認<br>
 ![EC2接続](/lecture4/EC2へ接続.png)
 
 ### RDS作成
 
-- RDS作成<br>
-![RDS作成](/lecture4/RDS作成.png)
-
 - **RDS再作成サブネット変更**<br>
 ![再作成](/lecture4/RDS再作成サブネット変更.png)
 
-- インバウンドルール設定<br>
-![RDSインバウンドルール設定](/lecture4/RDSインバウンド.png)
+- **インバウンドルール設定エビデンス**<br>
+![RDSインバウンドルール設定](/lecture4/プライベートサブネットエビデンス.png)
 
 ### EC2からRDSへ接続
-
-- RDSへ接続<br>
-![EC2からRDSへ接続](/lecture4/RDS接続.png)
 
 - **再作成再接続**<br>
 ![EC2からRDSへ再接続](/lecture4/EC2接続RDS接続.png)

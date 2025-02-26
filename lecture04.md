@@ -20,9 +20,6 @@
 - **インバウンドルールmyIP設定再提出**<br>
 ![再提出](/lecture4/myIPに設定.png)
 
-- EC2へ接続確認<br>
-![EC2接続](/lecture4/EC2へ接続.png)
-
 ### RDS作成
 
 - **RDS再作成サブネット変更**<br>
